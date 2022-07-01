@@ -2,3 +2,4 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - sklearn.linear_model
